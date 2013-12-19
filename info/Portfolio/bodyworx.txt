@@ -1,0 +1,2 @@
+<h3>BodyWorx</h3>
+<p>Migrated this site from an old Joomla CMS to a new, customized WordPress theme.</p>

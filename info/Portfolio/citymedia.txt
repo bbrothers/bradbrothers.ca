@@ -1,0 +1,2 @@
+<h3>CityMedia.ca</h3>
+<p>Designed and developed a new responsive site complete with CSS3 animations.</p>

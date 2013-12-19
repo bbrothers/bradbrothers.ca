@@ -1,0 +1,2 @@
+<h3>John Hope</h3>
+<p>Utilized HTML5, CSS3 and Ajax to create a dynamic site for JohnHope.ca</p>
