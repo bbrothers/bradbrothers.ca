@@ -1,2 +1,0 @@
-<h3>MotoringTV</h3>
-<p>Developed a custom WordPress theme and video encoding service.</p>

@@ -1,2 +1,0 @@
-<h3>ShopLocalNow.ca</h3>
-<p>Consistently maintain and update this CakePHP based website. Currently in the process of converting the site to Laravel and AngularJS.</p>

@@ -1,2 +1,0 @@
-<h3>ECA Review</h3>
-<p>A custom built WordPress theme with a number of custom plugins.</p>
